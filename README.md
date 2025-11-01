@@ -5,6 +5,12 @@ In an era where AI tools write most of the code, this project is about **reclaim
 
 ---
 
+## 📚 Projects
+
+| Project Name | Description | Live Demo / Code |
+|---------------|--------------|------------------|
+| **01 - [Todo List App](To-do-list-app)** | Experimenting with CSS transitions and JS event handling. | [View Project](https://vanilla-web-todo-list.pages.dev/) |
+
 ## 🧠 About
 
 Modern development has become fast, convenient — and lazy.  
